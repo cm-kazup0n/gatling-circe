@@ -1,0 +1,3 @@
+addSbtPlugin("io.gatling" % "gatling-sbt" % "3.0.0")
+//addSbtPlugin("io.github.davidgregory084" % "sbt-tpolecat" % "0.1.3")
+addSbtPlugin("io.spray" % "sbt-revolver" % "0.9.1")
